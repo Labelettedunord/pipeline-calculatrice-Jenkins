@@ -49,7 +49,7 @@ pipeline {
             agent any
             steps {
                 echo 'nom-de-la-branche'
-                echo 'lancement via un trigger'
+                echo 'lancement via trigger'
             }
         }
     }
